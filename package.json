@@ -1,0 +1,26 @@
+{
+  "name": "trabalhofinaldeppi",
+  "version": "1.0.0",
+  "description": "Trabalho FInal de Programacao para internet",
+  "main": "batepapo.js",
+  "scripts": {
+    "start": "nodemon batepapo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrenoRota/trabalhofinaldeppi.git"
+  },
+  "author": "Breno Rota de Carvalho Lobo Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrenoRota/trabalhofinaldeppi/issues"
+  },
+  "homepage": "https://github.com/BrenoRota/trabalhofinaldeppi#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "nodemon": "^3.1.7"
+  }
+}
