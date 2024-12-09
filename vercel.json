@@ -2,14 +2,14 @@
     "version": 2,
     "builds": [
       {
-        "src": "trabalhofinaldeppi.js",
+        "src": "batepapo.js",
         "use": "@vercel/node"
       }
     ],
     "routes": [
       {
         "src": "/(.*)",
-        "dest": "trabalhofinaldeppi.js"
+        "dest": "batepapo.js"
       }
     ]
   }
